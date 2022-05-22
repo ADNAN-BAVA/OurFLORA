@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267907328787",
+    "firebase_url": "https://flora-36376-default-rtdb.firebaseio.com",
+    "project_id": "flora-36376",
+    "storage_bucket": "flora-36376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267907328787:android:08d1fd215e1f7abee308e6",
+        "android_client_info": {
+          "package_name": "com.example.ourflora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267907328787-qkc5oli9d7t6h7rpthv2openaam2jit5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ourflora",
+            "certificate_hash": "c895b9a8d6844a5ae7fe180ddaa425e095f4af1d"
+          }
+        },
+        {
+          "client_id": "267907328787-inm51f2mj6k9crqg45nicgfv1ro0rkjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcf_FeHaPxVjuNj9aGQOag8s3WtMFHJH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267907328787-inm51f2mj6k9crqg45nicgfv1ro0rkjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
